@@ -18,14 +18,13 @@
 }
 .google-logo img {
     width: 20%;
-    height: auto;
-  
+    height: auto;  
 }
 
 .search-bar-outer{
     position: absolute;
     text-align: center;
-    bottom: 410px;
+    bottom: 400px;
     left: 160px;
        
 }
@@ -59,9 +58,60 @@
     font-size: 14px;
     text-align: right;
     left: -5px;
+    bottom: 33px;
     color: rgb(138, 134, 134);
 }
 .right-icons li { 
     display: inline;
     padding: 13px;
+}
+.SignInButton {
+    position: relative;
+    text-align: right;
+    left: 300px;
+    bottom: 120px;
+    
+}
+.SignInButton button{
+    color: #fff;
+	background-color: #4285f4;
+    border: 1px solid #4285f4;
+    width: 70px;
+    height: 30px;
+    font-family: Arial;
+    font-weight: 550;
+    font-size: 13px;   
+}
+
+.app-logo{
+    position: relative;
+    text-align: right;
+    left: 200px ;
+    bottom: 143px;
+}
+.app-logo img{
+    width: 17px;
+    height: 17px;
+    cursor: pointer;
+} 
+hr {
+    position : relative;
+    display: block;
+    top: 17px;
+    height: 1px;
+    width : 140%;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+.About {
+    position: relative;
+    text-align: center;
+    bottom: 50px;
+    font-size: 12px;
+    right: 108px;
+    color:  rgb(138, 134, 134);
+   }
+
 }
