@@ -113,5 +113,127 @@ hr {
     right: 108px;
     color:  rgb(138, 134, 134);
    }
+.search-result {
+    position: relative;
+    text-align: left;
+    font-size: 12px;
+    left: 165px;
+    bottom: 20px;
 
+}
+.search-result h3 {
+    font-weight: 400;
+    padding: 10px;
+    font-size: 17px;
+}
+.search-result h3 a {
+    text-decoration: none;
+}
+.search-result .green-link {
+    position: relative;
+    color:green;
+    left: 10px;
+    bottom: 6px;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+}
+.search-result .description { 
+    position: relative;
+    left: 11px;
+    font-size: 12px;
+    color: rgb(126, 119, 119);
+}
+.search-result2 {
+    position: relative;
+    text-align: left;
+    font-size: 12px;
+    left: 165px;
+    
+}
+.search-result2 h3 {
+    font-weight: 400;
+    padding: 10px;
+    font-size: 17px;
+}
+.search-result2 h3 a {
+    text-decoration: none;
+}
+.search-result2 .green-link2 {
+    position: relative;
+    color:green;
+    left: 10px;
+    bottom: 6px;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+}
+.search-result2 .description2 { 
+    position: relative;
+    left: 11px;
+    font-size: 12px;
+    color: rgb(126, 119, 119);
+}
+.search-result3 {
+    position: relative;
+    text-align: left;
+    font-size: 12px;
+    left: 165px;
+    top: 20px;
+    
+}
+.search-result3 h3 {
+    font-weight: 400;
+    padding: 10px;
+    font-size: 17px;
+}
+.search-result3 h3 a {
+    text-decoration: none;
+}
+.search-result3 .green-link3 {
+    position: relative;
+    color:green;
+    left: 10px;
+    bottom: 6px;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+}
+.search-result3 .description3 { 
+    position: relative;
+    left: 11px;
+    font-size: 12px;
+    color: rgb(126, 119, 119);
+}
+.search-result4 {
+    position: relative;
+    text-align: left;
+    font-size: 12px;
+    left: 165px;
+    top: 40px;
+    
+}
+.search-result4 h3 {
+    font-weight: 400;
+    padding: 10px;
+    font-size: 17px;
+}
+.search-result4 h3 a {
+    text-decoration: none;
+}
+.search-result4 .green-link4 {
+    position: relative;
+    color:green;
+    left: 10px;
+    bottom: 6px;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+}
+.search-result4 .description4 { 
+    position: relative;
+    left: 11px;
+    font-size: 12px;
+    color: rgb(126, 119, 119);
+}
 }
