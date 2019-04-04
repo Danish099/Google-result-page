@@ -313,6 +313,44 @@ hr {
     padding: 30px 0px;
     font-size: 14px; 
 }
+.related {
+    position: relative;    
+    font-weight: 600;
+    top: 100px;
+    left: 175px;
+    margin-bottom: 40px;
+}
+
+.related li {
+    color: rgb(45, 45, 194);
+    font-size: 13px;
+    padding-top: 12px;
+    cursor: pointer;
+    list-style: none;
+}
+.related li:hover { 
+    text-decoration: underline;
+}
+.related-right  {
+    position: relative;    
+    font-weight: 600;
+    bottom: 25px;
+    left: 480px;
+    margin-bottom: 40px;
+    
+}
+
+.related-right li {
+    color: rgb(45, 45, 194);
+    font-size: 13px;
+    padding-top: 12px;
+    cursor: pointer;
+    list-style: none;
+}
+.related-right li:hover { 
+    text-decoration: underline;
+}
+
 
 
 }
